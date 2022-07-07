@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python at Softuni.bg
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me marinanenova89@gmail.com
+- <a href="[URL_REDIRECT](https://www.linkedin.com/in/marina-nenova-915ba5222/)" target="blank"><img align="left" src="[URL_TO_YOUR_IMAGE](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)" height="100" /></a>
 
 <!---
 marina-nenova/marina-nenova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
